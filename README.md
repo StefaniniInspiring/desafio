@@ -22,7 +22,7 @@ Leia as instruções com calma e não deixe de evidenciar o seu progresso, mesmo
 
 ### Entrega :mailbox_with_mail:
 
-Quando concluir o desafio, envie o link do seu repositório aberto para [roleonavas@stefanini.com](mailto:roleonavas@stefanini.com) ou convide [@Leonavas](https://github.com/Leonavas) como editor do seu repositório privado.
+Quando concluir o desafio, envie o link do seu repositório aberto para [gttoneti@stefanini.com](mailto:gttoneti@stefanini.com) e [ggregoriis@stefanini.com](mailto:ggregoriis@stefanini.com) ou convide [@gabrieltoneti](https://github.com/gabrieltoneti) e [@giordanna](https://github.com/giordanna) como editores do seu repositório privado.
 
 ### Serão avaliados :heavy_check_mark:
 
